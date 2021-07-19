@@ -1,5 +1,5 @@
 # docker Mage API
-Projeto parado, esperando tempo para refatoração.
+Projeto parado, esperando tempo para refatoração(quase lá).
 
 Uma API para o gerenciamento da tecnologia docker. Gerenciamento complexo de containers, imagens, dockerfiles e docker-composes, abrindo um ambiente de testes amigável ao usuário.
 
